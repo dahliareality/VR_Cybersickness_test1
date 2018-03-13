@@ -118,7 +118,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-1132
+  m_Name: pb_Mesh-1126
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
@@ -2305,6 +2305,22 @@ Prefab:
       propertyPath: drawInGame
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 159396, guid: 4d293c8e162f3874b982baadd71153d2, type: 2}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 147176, guid: 4d293c8e162f3874b982baadd71153d2, type: 2}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 192944, guid: 4d293c8e162f3874b982baadd71153d2, type: 2}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 124034, guid: 4d293c8e162f3874b982baadd71153d2, type: 2}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 11420968, guid: 4d293c8e162f3874b982baadd71153d2, type: 2}
     - {fileID: 11411836, guid: 4d293c8e162f3874b982baadd71153d2, type: 2}
@@ -2347,7 +2363,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-1146
+  m_Name: pb_Mesh-1142
   serializedVersion: 8
   m_SubMeshes:
   - serializedVersion: 2
